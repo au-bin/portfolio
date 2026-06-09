@@ -2,7 +2,7 @@ export default function Page() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center gap-10 bg-background px-6 text-foreground">
       <header className="flex flex-col items-center gap-3 text-center">
-        <h1 className="text-balance text-3xl font-semibold tracking-tight sm:text-4xl">Your Name</h1>
+        <h1 className="text-balance text-3xl font-semibold tracking-tight sm:text-4xl">Aubin DEGLAIRE</h1>
         <p className="text-pretty text-sm leading-relaxed text-muted-foreground">Find me on the web.</p>
       </header>
 
